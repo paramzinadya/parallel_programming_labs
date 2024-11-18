@@ -1,0 +1,3 @@
+﻿  2ndLab.cpp
+C:\Users\parra\source\repos\parallelka\2ndLab\2ndLab\2ndLab\2ndLab.cpp(51,55): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  2ndLab.vcxproj -> C:\Users\parra\source\repos\parallelka\2ndLab\2ndLab\x64\Debug\2ndLab.exe
